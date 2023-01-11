@@ -6,7 +6,7 @@ Install tpm then tmux-resurrect: git clone https://github.com/tmux-plugins/tpm.g
 
 After editing '.tmux.conf' press: prefix + I
 
-A new file 'resurrect will be created in .tmux folder'
+A new directory '.tmux/resurrect' will be created in .tmux folder
 
 After opening a tmux session after rebooting, etc ..., press 'prefix + Ctrl + r'
 
